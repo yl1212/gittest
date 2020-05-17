@@ -1,3 +1,4 @@
 aaaaaaaaa   yyyyyyyy
 bbbbbbbbb   edit by hot_fix second
+bbbbbbbbb   modify second line 
 hot_fix branch test
